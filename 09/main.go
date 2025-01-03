@@ -12,6 +12,7 @@ func main() {
 
 	part1(lines[0])
 	part2(lines[0])
+	betterPart2(lines[0])
 }
 
 func part1(line string) {
